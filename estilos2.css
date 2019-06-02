@@ -212,7 +212,7 @@ vertical-align: middle;
   border-radius: 10px;
   overflow: hidden;
   flex-shrink: 0;
-  background: #f4fbff;
+  background: red;
   flex-wrap: wrap;
 }
 .event-list{
